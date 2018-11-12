@@ -58,7 +58,7 @@ vagrant –version
 2.	Download [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 3.	Unzip the data to get the newsdata.sql file.
 4.	Put the newsdata.sql file into the vagrant directory
-5.	Download this project: [Log_analysis_Project1](https://github.com/Heba-ahmad/Log_Analysis_project.git)
+5.	Download this project: [Log_Analysis_project](https://github.com/Heba-ahmad/Log_Analysis_project.git)
 6.	Upzip as needed and copy all files into the vagrant directory into a folder called Log_Analysis_project
 
 
